@@ -31,8 +31,8 @@
 	<search-key-group href="text/glossary.xhtml#caimmacam">
 		<match value="caimmacàm"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#damashe-ush-sham-or-simply-es-sham">
-		<match value="Damashe-ush-Shâm">
+	<search-key-group href="text/glossary.xhtml#damashc-ush-sham-or-simply-es-sham">
+		<match value="Damashc-ush-Shâm">
 			<value value="es-Shâm"/>
 		</match>
 	</search-key-group>
@@ -182,7 +182,7 @@
 	<search-key-group href="text/glossary.xhtml#waly">
 		<match value="wâly"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#y-allah">
+	<search-key-group href="text/glossary.xhtml#yallah">
 		<match value="y’allah"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#yesua">
