@@ -82,8 +82,8 @@
 	<search-key-group href="text/glossary.xhtml#haleb">
 		<match value="haleb"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#in-shallah">
-		<match value="in sh’allah"/>
+	<search-key-group href="text/glossary.xhtml#inshallah">
+		<match value="inshallah"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#isa">
 		<match value="isa"/>
@@ -120,8 +120,8 @@
 	<search-key-group href="text/glossary.xhtml#masr">
 		<match value="masr"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ma-shallah">
-		<match value="ma sh’allah"/>
+	<search-key-group href="text/glossary.xhtml#mashallah">
+		<match value="mashallah"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mehkemeh">
 		<match value="Mehkemeh"/>
