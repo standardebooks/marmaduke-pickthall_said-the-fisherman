@@ -49,3 +49,11 @@ dd + dt{
 	margin-top: 1em;
 }
 /* end glossary */
+
+/* time tables */
+table{
+	border-collapse: collapse;
+	margin: 1em auto;
+	width: 100%;
+}
+/* end time tables */
