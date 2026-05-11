@@ -72,9 +72,9 @@
 		<match value="fellah">
 			<value value="fellahìn"/>
 		</match>
-		<search-key-group href="text/glossary.xhtml#fulan">
-			<match value="fulân"/>
-		</search-key-group>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fulan">
+		<match value="fulân"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#habil">
 		<match value="habil"/>
