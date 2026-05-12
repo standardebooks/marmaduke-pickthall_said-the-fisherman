@@ -54,6 +54,9 @@ dd + dt{
 table{
 	border-collapse: collapse;
 	margin: 1em auto;
-	width: 100%;
+}
+
+td{
+	padding: .5em;
 }
 /* end time tables */
