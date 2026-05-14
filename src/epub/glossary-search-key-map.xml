@@ -3,12 +3,12 @@
 	<search-key-group href="text/glossary.xhtml#abu">
 		<match value="abu"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#afrit">
-		<match value="afrìt"/>
+	<search-key-group href="text/glossary.xhtml#afreet">
+		<match value="afreet"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#afrit">
-		<match value="afrìt">
-			<value value="afaerìt"/>
+	<search-key-group href="text/glossary.xhtml#afreet">
+		<match value="afreet">
+			<value value="afaereet"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ayub">
