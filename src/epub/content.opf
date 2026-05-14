@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/marmaduke-pickthall/said-the-fisherman</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-05-14T18:16:19Z</dc:date>
+		<meta property="dcterms:modified">2026-05-14T18:16:19Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,14 +38,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Syrian Arab’s fortunes rise and fall as he wanders away from his home by the sea.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Saïd is a fisherman who has carefully saved up a small fortune to buy a coffeehouse. He imagines this to be the start of his upward journey in social status, until his treasure mysteriously disappears. Convinced that this was the work of a jinni, he packs up his belongings and leaves with his wife, headed for a new start somewhere else.&lt;/p&gt;
-			&lt;p&gt;Along the way, Saïd mainly gets ahead by cunning and outright thievery. Yet his fortunes are just as easily reversed by a turn of luck, or the trickery of others. After some rises and falls in fortune, Saïd seems to finally be established as a merchant. But his relentless greed will push him on to his biggest downfall.&lt;/p&gt;
+			&lt;p&gt;Saïd is a fisherman who has carefully saved up a small fortune to buy a coffeehouse. He imagines this to be the start of his upward climb in social status, until his savings mysteriously disappear. Convinced that this is the work of a jinni, he packs up his belongings and leaves with his wife, headed for a new start somewhere else.&lt;/p&gt;
+			&lt;p&gt;Along the way, Saïd smoothly gets ahead by cunning and thievery, yet his fortunes are just as easily reversed by a turn of luck or the trickery of others.&lt;/p&gt;
+			&lt;p&gt;After some rises and falls in his fortunes, Saïd is finally established as a merchant—but will his relentless greed will push towards downfall?&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/77078</dc:source>
 		<dc:source>https://archive.org/details/saidfisherman0000marm</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">112327</meta>
+		<meta property="se:reading-ease.flesch">79.7</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marmaduke-pickthall_said-the-fisherman</meta>
 		<dc:creator id="author">Marmaduke Pickthall</dc:creator>
 		<meta property="file-as" refines="#author">Pickthall, Marmaduke</meta>
@@ -75,6 +76,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
